@@ -46,6 +46,14 @@
 </div>
 <textarea>
 $isi
+
+&nbsp;
+
+Ingin bertanya tentang masalah kehidupanmu? Silahkan dikirim ke salah satu akun berikut:
+
+- Email: <muhzaini30@gmail.com>
+- Facebook: [mzaini30](http://facebook.com/mzaini30)
+- LINE: [mzaini30](http://line.me/ti/p/~mzaini30)
 </textarea>
 <script src="bin/jquery.min.js"></script>
 <script src="bin/marked.min.js"></script>
