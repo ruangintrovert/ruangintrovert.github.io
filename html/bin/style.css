@@ -1,0 +1,48 @@
+.isi {
+    background: white;
+    margin: auto;
+    padding: 30px;
+}
+.content {
+    line-height: 2;
+}
+.link {
+    text-indent: initial !important;
+}
+.link a {
+    display: block;
+    color: inherit;
+}
+.link a:hover {
+    text-decoration: underline;
+}
+textarea {
+    display: none;
+}
+@media screen and (min-width: 590px){
+    body {
+        background: url("awan.png");
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .isi {
+        width: 80%;
+        max-width: 700px;
+        border: 1px solid #d3d3d3;
+    }
+    .content {
+        text-align: justify;
+        text-indent: 1cm;
+    }
+    .content li {
+        text-indent: initial;
+    }
+    .content h1,
+    .content h2,
+    .content h3,
+    .content h4,
+    .content h5,
+    .content h6 {
+    	    text-indent: initial;
+    	}
+}

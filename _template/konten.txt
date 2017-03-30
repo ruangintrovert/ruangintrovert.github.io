@@ -1,0 +1,54 @@
+<!doctype html>
+<!--[if IE 8]> <html lang="en" class="ie8" prefix="og: http://ogp.me/ns#" > <![endif]-->  
+<!--[if IE 9]> <html lang="en" class="ie9" prefix="og: http://ogp.me/ns#" > <![endif]-->  
+<!--[if !IE]><!--> <html lang="en" prefix="og: http://ogp.me/ns#" > <!--<![endif]-->  
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="$deskripsi...">
+    <meta name="author" content="$judulsitus">    
+    <link rel="shortcut icon" href="bin/favicon.ico">  
+     <meta content="$judul - $judulsitus" property="og:title">
+ 	<meta content="$situslengkap" property="og:url">
+ 	<meta content="$judulsitus" property="og:site_name">
+ 	<meta content="$deskripsi..." property="og:description">
+ 	<meta content="$situs/html/bin/misaka-mikoto.jpg" property="og:image">
+ 	<meta content="blog" property="og:type">
+ 	<meta content="summary_large_image" name="twitter:card">
+ 	<meta content="$deskripsi..." name="twitter:description">
+ 	<meta content="$judul - $judulsitus" name="twitter:title">
+ 	<meta content="$situslengkap" name="twitter:url">
+ 	<meta content="$judulsitus" name="twitter:site">
+ 	<meta content="@mzaini30" name="twitter:creator">
+ 	<meta content="$situs/html/bin/misaka-mikoto.jpg" property="twitter:image"> 
+<title>$judul - $judulsitus</title>
+<link rel="stylesheet" href="bin/bulma.css"/>
+<link rel="stylesheet" href="bin/style.css"/>
+</head>
+<body>
+<div class="isi">
+<br><br>
+      <h1 class="title has-text-centered">
+        $judul
+      </h1>
+<br><br>
+<div class="markdown content"></div>
+<br>
+<div class="content link">
+<p><strong>Tulisan Lainnya:</strong></p>
+<p><a href="$link1">$judul1</a></p>
+<p><a href="$link2">$judul2</a></p>
+<p><a href="$link3">$judul3</a></p>
+<p><a href="$link4">$judul4</a></p>
+<p><a href="$link5">$judul5</a></p>
+</div>
+</div>
+<textarea>
+$isi
+</textarea>
+<script src="bin/jquery.min.js"></script>
+<script src="bin/marked.min.js"></script>
+<script src="bin/app.js"></script>
+</body>
+</html>
