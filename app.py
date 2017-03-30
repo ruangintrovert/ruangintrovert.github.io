@@ -51,6 +51,7 @@ for n, x in enumerate(postingan):
     deskripsi = isi[:150]
     deskripsi = re.sub(r"\n", r" ", deskripsi)
     deskripsi = re.sub(r"\"", r"'", deskripsi)
+    deskripsi = re.sub(r"\*\*", r"", deskripsi)
     judul1 = more[0][0]
     judul2 = more[1][0]
     judul3 = more[2][0]

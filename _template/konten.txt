@@ -61,6 +61,7 @@ Ingin bertanya tentang masalah kehidupanmu? Silahkan dikirim ke salah satu akun 
 </textarea>
 <script src="bin/jquery.min.js"></script>
 <script src="bin/marked.min.js"></script>
+<script src="bin/parseuri.js"></script>
 <script src="bin/app.js"></script>
 </body>
 </html>
