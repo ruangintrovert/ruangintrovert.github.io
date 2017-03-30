@@ -27,11 +27,15 @@
 <link rel="stylesheet" href="bin/style.css"/>
 </head>
 <body>
-<div class="isi">
+<div class="isi has-text-centered">
 <br><br>
-      <h1 class="title has-text-centered">
+      <h1 class="title">
         $judul
       </h1>
+      <br>
+      <h2 class="subtitle">
+          $judulsitus
+      </h2>
 <br><br>
 <div class="markdown content"></div>
 <br>
@@ -47,7 +51,7 @@
 <textarea>
 $isi
 
-&nbsp;
+.
 
 Ingin bertanya tentang masalah kehidupanmu? Silahkan dikirim ke salah satu akun berikut:
 

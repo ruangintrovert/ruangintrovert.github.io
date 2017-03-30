@@ -6,6 +6,10 @@
 .content {
     line-height: 2;
 }
+.markdown a {
+    color: inherit;
+    text-decoration: underline;
+}
 .link {
     text-indent: initial !important;
 }
