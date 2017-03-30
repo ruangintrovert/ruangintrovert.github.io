@@ -1,3 +1,6 @@
+.title a {
+    color: inherit;
+}
 .isi {
     background: white;
     margin: auto;

@@ -30,7 +30,7 @@
 <div class="isi has-text-centered">
 <br><br>
       <h1 class="title">
-        $judul
+        <a href="$situslengkap">$judul</a>
       </h1>
       <br>
       <h2 class="subtitle">
