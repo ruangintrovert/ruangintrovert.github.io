@@ -58,6 +58,12 @@ Ingin bertanya tentang masalah kehidupanmu? Silahkan dikirim ke salah satu akun 
 - Email: <muhzaini30@gmail.com>
 - Facebook: [mzaini30](http://facebook.com/mzaini30)
 - LINE: [mzaini30](http://line.me/ti/p/~mzaini30)
+
+Kamu juga bisa update perkembangan blog ini dengan memfollow grup Ruang Introvert:
+
+- Whatsapp: <https://chat.whatsapp.com/8gSWKq7xPieFyJGALrQEqT>
+- LINE: <http://line.me/R/ti/g/of0NmhJgue>
+
 </textarea>
 <script src="bin/jquery.min.js"></script>
 <script src="bin/marked.min.js"></script>
