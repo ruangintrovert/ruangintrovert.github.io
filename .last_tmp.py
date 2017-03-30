@@ -41,8 +41,8 @@ for n, x in enumerate(judul):
     more.append(judul[n]+"gebfhahs"+link[n])
 more = [x.split("gebfhahs") for x in more]
 
-situs = "https://catatankehidupan.github.io"
-judulsitus = "Catatan Kehidupan"
+situs = "https://ruangintrovert.github.io"
+judulsitus = "Ruang Introvert"
 
 for n, x in enumerate(postingan):
     random.shuffle(more)
