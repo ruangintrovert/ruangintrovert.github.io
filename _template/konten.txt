@@ -64,6 +64,8 @@ Kamu juga bisa update perkembangan blog ini dengan memfollow grup Ruang Introver
 - Whatsapp: <https://chat.whatsapp.com/8gSWKq7xPieFyJGALrQEqT>
 - LINE: <http://line.me/R/ti/g/of0NmhJgue>
 
+(Nama penanya pada blog ini sudah diubah demi privasi)
+
 </textarea>
 <script src="bin/jquery.min.js"></script>
 <script src="bin/marked.min.js"></script>
