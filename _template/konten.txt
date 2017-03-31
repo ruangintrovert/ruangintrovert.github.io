@@ -27,13 +27,13 @@
 <link rel="stylesheet" href="bin/style.css"/>
 </head>
 <body>
-<div class="isi has-text-centered">
+<div class="isi">
 <br><br>
-      <h1 class="title">
+      <h1 class="title has-text-centered">
         <a href="$situslengkap">$judul</a>
       </h1>
       <br>
-      <h2 class="subtitle">
+      <h2 class="subtitle has-text-centered">
           $judulsitus
       </h2>
 <br><br>
