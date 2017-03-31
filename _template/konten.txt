@@ -13,7 +13,7 @@
  	<meta content="$situslengkap" property="og:url">
  	<meta content="$judulsitus" property="og:site_name">
  	<meta content="$deskripsi..." property="og:description">
- 	<meta content="$situs/html/bin/misaka-mikoto.jpg" property="og:image">
+ 	<meta content="$gambar" property="og:image">
  	<meta content="blog" property="og:type">
  	<meta content="summary_large_image" name="twitter:card">
  	<meta content="$deskripsi..." name="twitter:description">
@@ -21,7 +21,7 @@
  	<meta content="$situslengkap" name="twitter:url">
  	<meta content="$judulsitus" name="twitter:site">
  	<meta content="@IntrovertLiving" name="twitter:creator">
- 	<meta content="$situs/html/bin/misaka-mikoto.jpg" property="twitter:image"> 
+ 	<meta content="$gambar" property="twitter:image"> 
 <title>$judul - $judulsitus</title>
 <link rel="stylesheet" href="bin/bulma.css"/>
 <link rel="stylesheet" href="bin/style.css"/>

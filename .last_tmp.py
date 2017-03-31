@@ -7,6 +7,7 @@ konten = open(lokasi+"_template/konten.txt").read()
 konten = string.Template(konten)
 index = open(lokasi+"_template/index.txt").read()
 index = string.Template(index)
+gambar = open(lokasi+"_template/gambar.txt").read().splitlines()
 
 postingan = glob.glob(lokasi+"post/*.md")
 fpostingan = postingan[:]
@@ -45,24 +46,34 @@ situs = "https://ruangintrovert.github.io"
 judulsitus = "Ruang Introvert"
 
 for n, x in enumerate(postingan):
+
+    jgambar = random.randrange(len(gambar))
+    picture = gambar[jgambar]
+    
     random.shuffle(more)
+    
     title = judul[n]
     isi = open(x).read()
+    
     deskripsi = isi[:150]
     deskripsi = re.sub(r"\n", r" ", deskripsi)
     deskripsi = re.sub(r"\"", r"'", deskripsi)
     deskripsi = re.sub(r"\*\*", r"", deskripsi)
+    
     judul1 = more[0][0]
     judul2 = more[1][0]
     judul3 = more[2][0]
     judul4 = more[3][0]
     judul5 = more[4][0]
+    
     link1 = more[0][1]
     link2 = more[1][1]
     link3 = more[2][1]
     link4 = more[3][1]
     link5 = more[4][1]
+    
     situslengkap = situs+"/html/"+link[n]
+    
     dict = {
     	    "judul": title,
     	    "isi": isi,
@@ -79,8 +90,10 @@ for n, x in enumerate(postingan):
     	    "link5": link5,
     	    "situs": situs,
     	    "situslengkap": situslengkap,
-    	    "judulsitus": judulsitus
+    	    "judulsitus": judulsitus,
+    	    "gambar": picture
     	}
+    	
     hasil = konten.substitute(dict)
     open(target[n], "w").write(hasil)
     
@@ -90,7 +103,8 @@ direct = link[banyak]
 kamus = {
     "situs": situs,
     "judulsitus": judulsitus,
-    "direct": direct
+    "direct": direct,
+    "gambar": gambar[0]
 }
 selesai = index.substitute(kamus)
 indexhtml.write(selesai)
