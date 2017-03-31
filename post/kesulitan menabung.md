@@ -1,6 +1,6 @@
 Kamis, 30 Maret 2017
 
-**Bang Zen, saya mau nanya nih. Gimana ya caranya mengatasi duit yang cepet habis sebelum akhir bulan? Soalnya kan kalau nunggu awal bulan masih lama. Mohon dijawab ya...**
+**Saya mau nanya nih. Gimana ya caranya mengatasi duit yang cepet habis sebelum akhir bulan? Soalnya kan kalau nunggu awal bulan masih lama. Mohon dijawab ya...**
 
 **(Rian)**
 

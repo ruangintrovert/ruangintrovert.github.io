@@ -20,7 +20,7 @@
  	<meta content="$judul - $judulsitus" name="twitter:title">
  	<meta content="$situslengkap" name="twitter:url">
  	<meta content="$judulsitus" name="twitter:site">
- 	<meta content="@mzaini30" name="twitter:creator">
+ 	<meta content="@IntrovertLiving" name="twitter:creator">
  	<meta content="$situs/html/bin/misaka-mikoto.jpg" property="twitter:image"> 
 <title>$judul - $judulsitus</title>
 <link rel="stylesheet" href="bin/bulma.css"/>
@@ -53,16 +53,7 @@ $isi
 
 .
 
-Ingin bertanya tentang masalah kehidupanmu? Silahkan dikirim ke salah satu akun berikut:
-
-- Email: <muhzaini30@gmail.com>
-- Facebook: [mzaini30](http://facebook.com/mzaini30)
-- LINE: [mzaini30](http://line.me/ti/p/~mzaini30)
-
-Kamu juga bisa update perkembangan blog ini dengan memfollow grup Ruang Introvert:
-
-- Whatsapp: <https://chat.whatsapp.com/8gSWKq7xPieFyJGALrQEqT>
-- LINE: <http://line.me/R/ti/g/of0NmhJgue>
+Ingin konsultasi masalah kehidupan? Silahkan layangkan surat ke <ruangintrovert@gmail.com>
 
 (Nama penanya pada blog ini sudah diubah demi privasi)
 

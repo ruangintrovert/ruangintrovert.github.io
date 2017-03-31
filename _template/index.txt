@@ -20,7 +20,7 @@
  	<meta content="$judulsitus" name="twitter:title">
  	<meta content="$situs" name="twitter:url">
  	<meta content="$judulsitus" name="twitter:site">
- 	<meta content="@mzaini30" name="twitter:creator">
+ 	<meta content="@IntrovertLiving" name="twitter:creator">
  	<meta content="$situs/html/bin/misaka-mikoto.jpg" property="twitter:image"> 
 <title>$judulsitus</title>
 </head>
