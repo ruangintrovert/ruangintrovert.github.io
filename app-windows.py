@@ -13,20 +13,18 @@ fpostingan = postingan[:]
 target = postingan[:]
 judul = postingan[:]
 
-print postingan
-
 semuahtml = glob.glob(lokasi+"html/*.html")
 for x in semuahtml:
     os.remove(x)
     
 for n, x in enumerate(target):
-    target[n] = re.sub(r"/post/", r"/html/", target[n])
+    target[n] = re.sub(r"post\\", r"html/", target[n])
     target[n] = re.sub(r" ", r"-", target[n])
     target[n] = target[n][:-3] + ".html"
 link = target[:]
 
 for n, x in enumerate(judul):
-    judul[n] = re.sub(r""+lokasi+"post/", r"", judul[n])
+    judul[n] = re.sub(r"post\\", r"", judul[n])
     judul[n] = re.sub(r".md", r"", judul[n])
     judul[n] = re.sub(r"\(tanya\)", r"?", judul[n])
     judul[n] = judul[n].title()
