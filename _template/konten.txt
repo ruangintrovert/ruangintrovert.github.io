@@ -63,7 +63,7 @@ $isi
 
 Ingin konsultasi masalah kehidupan? Silahkan layangkan surat ke <ruangintrovert@gmail.com>
 
-(Nama penanya pada blog ini sudah diubah demi privasi)
+(Nama klien pada blog ini sudah diubah demi privasi)
 
 </textarea>
 <script src="bin/jquery.min.js"></script>
