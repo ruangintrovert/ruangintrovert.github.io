@@ -8,6 +8,7 @@ konten = string.Template(konten)
 index = open(lokasi+"_template/index.txt").read()
 index = string.Template(index)
 gambar = open(lokasi+"_template/gambar.txt").read().splitlines()
+random.shuffle(gambar)
 
 postingan = glob.glob(lokasi+"post/*.md")
 fpostingan = postingan[:]
