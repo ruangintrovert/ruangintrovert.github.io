@@ -77,7 +77,6 @@ Ingin konsultasi masalah kehidupan? Silahkan layangkan surat ke <ruangintrovert@
 </textarea>
 <script src="bin/jquery.min.js"></script>
 <script src="bin/marked.min.js"></script>
-<script src="bin/parseuri.js"></script>
 <script src="bin/app.js"></script>
 </body>
 </html>
