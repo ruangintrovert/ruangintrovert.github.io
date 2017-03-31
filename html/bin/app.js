@@ -9,5 +9,5 @@ if (jam < 5 || jam > 19 && $(window).width() > 590){
 
 cari = location.search
 if (cari != 0){
-    $(".markdown").html($(".markdown").html().replace(new RegExp(nama, "g"), cari.slice(1)))
+    $(".markdown").html($(".markdown").html().replace(new RegExp(nama, "g"), cari.slice(1).replace(/-/g, " ")))
 }
