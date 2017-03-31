@@ -39,6 +39,7 @@
 <br><br>
 <div class="markdown content"></div>
 <br>
+
 <div class="content link">
 <p><strong>Tulisan Lainnya:</strong></p>
 <p><a href="$link1">$judul1</a></p>
@@ -48,12 +49,20 @@
 <p><a href="$link5">$judul5</a></p>
 </div>
 <br>
+
 <div class="content link">
 <p><strong>Sosial Media Ruang Introvert:</strong></p>
 <p><a href="https://www.facebook.com/ruangintrovert/">Facebook</a></p>
 <p><a href="https://twitter.com/ruangintrovert?s=09">Twitter</a></p>
 <p><a href="http://line.me/ti/p/%40axi6510p">LINE</a></p>
 <p><a href="https://t.me/ruangintrovert">Telegram</a></p>
+<br>
+
+<div class="content link">
+<p><strong>Penting:</strong></p>
+<p><a href="disclaimer.html">Disclaimer</a></p>
+</div>
+
 </div>
 </div>
 <textarea>
