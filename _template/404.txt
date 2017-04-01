@@ -22,10 +22,10 @@
  	<meta content="$judulsitus" name="twitter:site">
  	<meta content="@IntrovertLiving" name="twitter:creator">
  	<meta content="$gambar" property="twitter:image"> 
-    <link rel="stylesheet" href="/html/bin/404.css"/>
+    <link rel="stylesheet" href="$situs/html/bin/404.css"/>
 <title>404 Not Found - $judulsitus</title>
 </head>
 <body>
-    <a href="/index.html"><img src="/html/bin/404.jpg"/></a>
+    <a href="$situs/index.html"><img src="$situs/html/bin/404.jpg"/></a>
 </body>
 </html>
