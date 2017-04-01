@@ -28,4 +28,6 @@ Hai Jaka, bagaimana kabarnya? Baik kan? Oh iya, memang sih perkara pemakaian kuo
 
 5. Renungkan kembali niat awal menggunakan smartphone
 
-    
+    Masih ingat dong, apa niat awal kita membeli smartphone? Untuk belajar? Untuk chattingan? Nah, renungkan kembali niat itu ya, supaya kita nggak menggunakannya untuk hal yang sia-sia, apalagi untuk maksiat. Naudzubillah.
+
+Bagaimana Jaka? Sudah siap untuk berhemat?
