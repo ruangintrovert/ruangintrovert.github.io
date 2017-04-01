@@ -61,6 +61,7 @@
 <div class="content link">
 <p><strong>Penting:</strong></p>
 <p><a href="disclaimer.html">Disclaimer</a></p>
+<p><a href="https://github.com/ruangintrovert/ruangintrovert.github.io/archive/master.zip">Download blog ini</a></p>
 </div>
 
 </div>
