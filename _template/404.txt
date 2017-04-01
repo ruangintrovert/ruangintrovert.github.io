@@ -26,6 +26,6 @@
 <title>404 Not Found - $judulsitus</title>
 </head>
 <body>
-    <a href="index.html"><img src="html/bin/404.jpg"/></a>
+    <a href="/index.html"><img src="/html/bin/404.jpg"/></a>
 </body>
 </html>
