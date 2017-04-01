@@ -2,11 +2,14 @@ import glob, re, random, string, os
 
 lokasi = "/sdcard/Git/ruang-introvert/"
 
-indexhtml = open(lokasi+"index.html", "w")
 konten = open(lokasi+"_template/konten.txt").read()
 konten = string.Template(konten)
 index = open(lokasi+"_template/index.txt").read()
 index = string.Template(index)
+indexhtml = open(lokasi+"index.html", "w")
+notfound = open(lokasi+"_template/404.txt").read()
+notfound = string.Template(notfound)
+html404 = open(lokasi+"404.html", "w")
 gambar = open(lokasi+"_template/gambar.txt").read().splitlines()
 random.shuffle(gambar)
 
@@ -109,3 +112,5 @@ kamus = {
 }
 selesai = index.substitute(kamus)
 indexhtml.write(selesai)
+selesai404 = notfound.substitute(kamus)
+html404.write(selesai404)
