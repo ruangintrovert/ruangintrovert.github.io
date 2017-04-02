@@ -32,6 +32,7 @@ for n, x in enumerate(judul):
     judul[n] = re.sub(r""+lokasi+"post/", r"", judul[n])
     judul[n] = re.sub(r".md", r"", judul[n])
     judul[n] = re.sub(r"\(tanya\)", r"?", judul[n])
+    judul[n] = re.sub(r"\(seru\)", r"!", judul[n])
     judul[n] = judul[n].title()
     
 for n, x in enumerate(judul):
